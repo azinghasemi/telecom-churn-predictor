@@ -7,7 +7,7 @@
 
 > **Predict which customers will churn, segment them into risk groups, and calculate exactly how much revenue a targeted retention campaign would protect.** Combines XGBoost classification (ROC-AUC = 0.84) with K-Means segmentation (4 risk clusters) on 7,043 telecom customers.
 
-**[Live Demo (Streamlit) →](https://your-app.streamlit.app)**
+**[Live Demo (Streamlit) →](https://telecom-churn-predictor-e3k4wtwyhadhd9wzbuhkaw.streamlit.app)**
 
 ---
 
